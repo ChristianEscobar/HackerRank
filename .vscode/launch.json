@@ -10,6 +10,13 @@
 			"name": "RepeatedString",
 			"skipFiles": ["<node_internals>/**"],
 			"program": "${workspaceFolder}/RepeatedString/index.js"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "MinimumBribes",
+			"skipFiles": ["<node_internals>/**"],
+			"program": "${workspaceFolder}/MinimumBribes/index.js"
 		}
 	]
 }

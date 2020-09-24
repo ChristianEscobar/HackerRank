@@ -17,6 +17,13 @@
 			"name": "MinimumBribes",
 			"skipFiles": ["<node_internals>/**"],
 			"program": "${workspaceFolder}/MinimumBribes/index.js"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "StrongPassword",
+			"skipFiles": ["<node_internals>/**"],
+			"program": "${workspaceFolder}/StrongPassword/index.js"
 		}
 	]
 }
